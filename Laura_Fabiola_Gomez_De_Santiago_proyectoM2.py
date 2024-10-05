@@ -1,3 +1,4 @@
+# Programa para identificar la longitud de una palabra ingresada
 # Función que verifica la longitud de una palabra ingresada
 def verificar_longitud_palabra(palabra):
     # Calcula la longitud de la palabra usando la función len()
@@ -24,6 +25,7 @@ while True:
 # Llama a la función para verificar la longitud de la palabra ingresada
 verificar_longitud_palabra(palabra_ingresada)
 
+# Programa para identificar la longitud de una palabra ingresada
 # Función que identifica en qué cuadrante está un punto en el plano cartesiano
 def identificar_cuadrante(x, y):
     # Verifica si alguna de las coordenadas es igual a 0, lo que no es permitido
